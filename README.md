@@ -214,52 +214,53 @@ plt.show()
 - ### **i)** Read and Display an Image.  
    1.Read 'Eagle_in_Flight.jpg' as grayscale and display:
 
-  ![alt text](<greyscale eagle.png>)
+  ![image](https://github.com/user-attachments/assets/71268834-5910-4b4f-8546-7bdb7494e24a)
+
 
   2.Save image as PNG and display:
 
-  ![alt text](<png eagle.png>)
+![image](https://github.com/user-attachments/assets/4b2538dd-22bf-4d2b-9dda-8210c8bb3758)
 
   3.Cropped image:
 
-  ![alt text](<cropped region.png>)
+![image](https://github.com/user-attachments/assets/d4e8c8b5-4d21-487b-b2ab-ae6a498e4ced)
 
   4.Resize and flip Horizontally:
 
-  ![alt text](<flipped horizontally.png>)
+![image](https://github.com/user-attachments/assets/cf153b5d-2b0a-4c12-942c-312da69eece9)
 
   5.Read 'Apollo-11-launch.jpg' and  Display the final annotated image:
 
-  ![alt text](<apollo annotated .png>)
+![image](https://github.com/user-attachments/assets/86014707-2388-4401-95d9-3f50ed4c5b87)
 
 - ### **ii)** Adjust Image Brightness.
 
 1.Create brighter and darker images and display:
 
-![alt text](<bright and dark boy.png>)
+![image](https://github.com/user-attachments/assets/fe065a32-e2ec-42e1-9d63-c3108f7975e4)
 
 - ### **iii)** Modify Image Contrast.  
 1. Modify contrast using scaling factors 1.1 and 1.2:
 
-![alt text](<contrast boy.png>)
+![image](https://github.com/user-attachments/assets/7fa65a3b-cd38-48e0-9c2f-11a5a0aab5ca)
 
 - ### **iv)** Generate Third Image Using Bitwise Operations.
 
 1.Split 'Boy.jpg' into B, G, R components and display:
 
-![alt text](<bgr boy.png>)
+![image](https://github.com/user-attachments/assets/c82c7908-c983-4d46-baa7-6c73b2d6d53e)
 
 2.Merge the R, G, B channels and display:
 
-![alt text](<Merged rgb boy.png>)
+![image](https://github.com/user-attachments/assets/ea2886be-57a5-4b85-b092-1c2e731bc980)
 
 3.Split the image into H, S, V components and display:
 
-![alt text](<hsv boy.png>)
+![image](https://github.com/user-attachments/assets/7d7b1368-40e5-4045-a7ba-bb46c8f6b618)
 
 4.Merge the H, S, V channels and display:
 
-![alt text](<merged hsv with original.png>)
+![image](https://github.com/user-attachments/assets/511c34e2-287c-46a3-b7b8-f830fab93544)
 
 ## Result:
 Thus, the images were read, displayed, brightness and contrast adjustments were made, and bitwise operations were performed successfully using the Python program.
